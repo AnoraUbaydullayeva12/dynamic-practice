@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 100vh;
+    text-align: center;
+}
+
+.container{
+    width: 500px;
+    height: 650px;
+    background: white;
+    border-radius: 25px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 1rem;
+}
+
+h2, h3{
+    text-align: center;
+    font-size: 2rem;
+}
+
+h3{
+    font-size: 1.5rem;
+    color: blue;
+}
+
